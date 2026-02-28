@@ -1,3 +1,10 @@
-# Orbitr Canary React/Vite
+# Orbitr Canary React 20260223
 
-Resolver canary repository.
+Realistic React-based multi-page fixture for framework-safe SEO testing.
+
+Routes:
+- /
+- /services/
+- /pricing/
+- /resources/case-studies/
+- /contact/
