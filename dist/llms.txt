@@ -1,0 +1,25 @@
+# Orbitr Canary React 20260223
+
+**Domain:** https://orbitr-canary-react-20260223.pages.dev
+
+Lumen Family Dental is a local dental practice serving the New York, NY area with comprehensive family dental services. The site provides information about dental services, educational resources, and contact options for scheduling appointments.
+
+## Main Pages
+
+- **Home** (https://orbitr-canary-react-20260223.pages.dev/) - Lumen Family Dental homepage with local business information for New York, NY
+
+## Services
+
+- **Services** (https://orbitr-canary-react-20260223.pages.dev/services) - Overview of dental services and operating model
+
+## Resources
+
+- **Insights** (https://orbitr-canary-react-20260223.pages.dev/blog/insights) - Educational resources and practical dental guidance
+
+## Contact & Scheduling
+
+- **Contact** (https://orbitr-canary-react-20260223.pages.dev/contact) - Contact information, availability, pricing, and appointment scheduling
+
+---
+
+**About:** Lumen Family Dental is a family-focused dental practice providing local dental care services in New York, NY with an emphasis on patient education and accessibility.
