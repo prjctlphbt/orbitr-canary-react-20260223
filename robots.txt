@@ -1,0 +1,54 @@
+# robots.txt for https://orbitr-canary-react-20260223.pages.dev
+
+# Allow all standard web crawlers
+User-agent: *
+Allow: /
+
+# Major Search Engine Crawlers
+User-agent: Googlebot
+Allow: /
+
+User-agent: Bingbot
+Allow: /
+
+User-agent: Slurp
+Allow: /
+
+User-agent: DuckDuckBot
+Allow: /
+
+User-agent: Yandexbot
+Allow: /
+
+# AI Crawlers - Allow for visibility in AI search results
+# Uncomment Disallow lines below to block AI training while keeping search visibility
+User-agent: GPTBot
+Allow: /
+# Disallow: /
+
+User-agent: ChatGPT-User
+Allow: /
+
+User-agent: CCBot
+Allow: /
+# Disallow: /
+
+User-agent: anthropic-ai
+Allow: /
+# Disallow: /
+
+User-agent: Claude-Web
+Allow: /
+
+User-agent: Google-Extended
+Allow: /
+# Disallow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+User-agent: Bytespider
+Allow: /
+
+# Sitemap location
+Sitemap: https://orbitr-canary-react-20260223.pages.dev/sitemap.xml
