@@ -1,0 +1,22 @@
+# Jekyll configuration
+title: Lumen Growth Dental
+description: Predictable patient acquisition for high-value procedures with search, CRO, and tracking.
+url: ""
+baseurl: ""
+
+# Build settings
+markdown: kramdown
+permalink: /blog/:title/
+
+# Plugins
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+# Collections
+defaults:
+  - scope:
+      path: "_posts"
+      type: "posts"
+    values:
+      layout: "post"
